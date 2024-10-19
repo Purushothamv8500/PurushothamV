@@ -1,6 +1,7 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm V Purushotham</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?sca_esv=0a3e250173e3dd9d&rlz=1C1RXQR_enIN1109IN1109&sxsrf=ADLYWIJeB1MLnwNwNVBE1ixIjskZQKgpxg:1729368039755&q=github+animation+website&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J603JUkR9Y5suk8yuy50qOYMMWTNCTu57lKPsZpPcfqPO_IpBTFq5Iu5fjJcS9zeIjPFJUv87eZfN29UFdVUPMDQu7RK9R_bUPLOf1fjQfA8iavGDDNI4XAiPb7CBH_tYixgN7oUspZLXXXsRkqTIf5aqMzAsa5BiGd_cq9iXccaPMpaPw&sa=X&ved=2ahUKEwiRn8f9nZuJAxVPafUHHQM7FsAQtKgLegQIERAB&biw=1280&bih=551&dpr=1.5#vhid=T28XC9zHcn333M&vssid=mosaic">
+<img align="right" alt="Coding" width="400" src="c:\Users\rohit\Desktop\profile.github.avif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purush45&label=Profile%20views&color=0e75b6&style=flat" alt="purush45" /> </p>
